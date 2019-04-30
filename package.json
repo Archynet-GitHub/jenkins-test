@@ -1,0 +1,21 @@
+{
+  "name": "Jenkins-test",
+  "private": true,
+  "version": "0.0.1",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "claudio",
+  "contributors": [],
+  "dependencies": {
+    "express": "3.12.0"
+  },
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+  }
+}
